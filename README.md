@@ -1,20 +1,12 @@
 ﻿# Regret
-version a1.1.2
+version a1.2.0
 
 [发布包](https://gitee.com/LAWArthur/Regret/releases/)
 
-emmm觉得算不上一个大版本
-
-FIX:修复了尸体奇怪的碰撞箱
-
-FIX:修复了尸体抖动
-
-UPDATE:更新了背包UI
-
-UPDATE:更新了商店UI
-
 ## 简介
-这次是加了个商店吧，应该吧
+更新了剧情系统！给NPC加了一段对话剧情，有一个简单的分支剧情。
+
+FIX:修复了NPC的奇怪视角
 
 ### 物品简介
 #### 祈念
@@ -64,4 +56,4 @@ UPDATE:更新了商店UI
 
 > Note：如果手持物品有专属攻击动作，则该物品的动作会覆盖原攻击动作。
 
-issues求虐求吐槽
+[issues](https://github.com/LAWArthur/Regret/issues/)求虐求吐槽
