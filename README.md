@@ -1,12 +1,14 @@
 ﻿# Regret
-version a2.0.0
+version a2.1.0
 
 [发布包](https://gitee.com/LAWArthur/Regret/releases/)
 
-Alpha R2的第一个版本
+这个功能写到头炸（以后就好了【自我催眠】）
+
+奇怪的游戏有模有样了！（doge）
 
 ## 简介
-优化了交互系统。
+增加了一个武器改造台，现在可以为武器嵌入祈念了。
 
 ### 物品简介
 #### 祈念
