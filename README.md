@@ -3,6 +3,8 @@ version a2.2.0
 
 [发布包](https://gitee.com/LAWArthur/Regret/releases/)
 
+最近好累（哈欠）
+
 ## 简介
 新增等级系统
 
